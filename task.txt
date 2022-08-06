@@ -11,6 +11,8 @@ git rm --catched
 rm -rf .git
 git log --start
 git log --since==2.days
+git restore --staged task1.txt  ==used for unstage
+
 
 
 
